@@ -1,7 +1,7 @@
 왕왕짱짱 백준탐험일기(Start Until 2022-08-15)
 
 # Tag
-[Basic Coding](#basic-coding-or-brute-force)
+[Basic Coding](#basic-coding-or-brute-force)  
 [Binary Search](#binary-search)
 - [Upper Bound & Lower Bound](#upper-bound--lower-bound)
 
