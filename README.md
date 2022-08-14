@@ -6,8 +6,8 @@
   * [Upper Bound & Lower Bound](#upper-bound---lower-bound)
 
 
-## Basic Coding (or Brute Force)
+# Basic Coding (or Brute Force)
 - [10815.cpp (숫자 카드 1)](10815.cpp)
-## Binary Search
-### Upper Bound & Lower Bound
+# Binary Search
+## Upper Bound & Lower Bound
 - [10816.cpp (숫자 카드 2)](10816.cpp)
