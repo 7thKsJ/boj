@@ -1,3 +1,5 @@
+//solved_40176kb_432ms_47727256_1153b
+
 #include <stdio.h>
 #include <algorithm>
 int arr[10000001];
