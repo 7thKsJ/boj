@@ -13,6 +13,8 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - [10815.cpp (숫자 카드 1)](10815.cpp)
 # Dynamic Programming
 - [11727.cpp (2xN 타일링 2)](11727.cpp)
+- [9475.cpp (스티커 a.k.a(조약돌 문제, Pebbling a checkboard))](9475.cpp)
+- [14430.cpp (자원 캐기 a.k.a(행렬 경로 문제, Matrix Path Problem))](14430.cpp)
 # Binary Search
 ## Upper Bound & Lower Bound
 - [10816.cpp (숫자 카드 2)](10816.cpp)
