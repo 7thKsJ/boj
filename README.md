@@ -20,6 +20,7 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 # Binary Search
 ## Upper Bound & Lower Bound
 - [10816.cpp (숫자 카드 2)](10816.cpp)
+- [1300.cpp (K번째 수)](1300.cpp)
 # Priority Queue
 ## STL basic usage
 - [11279.cpp (최대 힙)](11279.cpp)
