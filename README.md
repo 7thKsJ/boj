@@ -7,6 +7,8 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
   * [Upper Bound & Lower Bound](#upper-bound---lower-bound)
 - [Priority Queue](#priority-queue)
   * [STL basic usage](#stl-basic-usage)
+- [Topological Sorting](#topological-sorting)
+
 
 
 # Basic Coding (or Brute Force)
