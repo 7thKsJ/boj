@@ -30,3 +30,4 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - [1655.cpp (가운데를 말해요)](1655.cpp)
 # Topological Sorting
 - [2623.cpp (음악프로그램){Queue}](2623.cpp)
+- [2623.cpp (음악프로그램){DFS, Stack}](2623(1).cpp)
