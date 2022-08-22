@@ -21,7 +21,7 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - [11049.cpp (행렬 곱셈 문제)](11049.cpp)
 - [9251.cpp (LCS)](9251.cpp)
 # BFS
-- [1687.cpp (숨바꼭질)](1687.cpp)
+- [1697.cpp (숨바꼭질)](1697.cpp)
 # Binary Search
 ## Upper Bound & Lower Bound
 - [10816.cpp (숫자 카드 2)](10816.cpp)
