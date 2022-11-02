@@ -20,6 +20,7 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - [14430.cpp (자원 캐기 a.k.a(행렬 경로 문제, Matrix Path Problem))](14430.cpp)
 - [11049.cpp (행렬 곱셈 문제)](11049.cpp)
 - [9251.cpp (LCS)](9251.cpp)
+- [1912.cpp (연속합)](1912.cpp)
 # BFS
 - [1697.cpp (숨바꼭질)](1697.cpp)
 # Binary Search
