@@ -7,10 +7,11 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - [Binary Search](#binary-search)
   * [Upper Bound & Lower Bound](#upper-bound---lower-bound)
 - [Priority Queue](#priority-queue)
-  * [STL basic usage](#stl-basic-usage)
-- [Topological Sorting](#topological-sorting)
+- [Union-Find](#union-find)
 - [Graph](#graph)
   * [Shortest Path Problems](#shortest-path-problems)
+  * [Minimum Spanning Tree](#minimum-spanning-tree)
+  * [Topological Sorting](#topological-sorting)
 
 
 
