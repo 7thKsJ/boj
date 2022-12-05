@@ -1,5 +1,5 @@
 // solved_5036kb_40ms_47045803_1595b
-// Prim
+// Dijkstra
 
 #include <stdio.h>
 #include <algorithm>

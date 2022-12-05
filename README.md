@@ -40,9 +40,8 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 ## Shortest Path Problems
 - [11404.cpp (플로이드){플로이드-워샬}](11/11404.cpp)
 - [11657.cpp (타임머신){벨만포드}](11/11657.cpp)
-- [1916(1).cpp (최소비용 구하기){다익스트라}](1/1916(1).cpp)
+- [1916(1).cpp (최소비용 구하기){다익스트라}](1/1916.cpp)
 ## Minimum Spanning Tree
-- [1916.cpp (최소비용 구하기){Prim #1}](1/1916.cpp)
 - [1922.cpp (네트워크 연결){Prim #1}](1/1922.cpp)
 - [1922.cpp (네트워크 연결){Prim #2}](1/1922(1).cpp)
 - [10423.cpp (전기가 필요해){Kruskal}](10/10423.cpp)
