@@ -13,6 +13,7 @@ int main (){
     scanf("%s", b+1);
     for(len_a = 1; a[len_a] !='\0'; len_a++);
     for(len_b = 1; b[len_b] !='\0'; len_b++);
+    // printf("%d %d\n", len_a, len_b);
     for(int i = 0; i < len_a; i++){
         for(int j = 0; j < len_b; j++){
             len[i][j] = -1;
