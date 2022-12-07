@@ -1,7 +1,7 @@
 왕왕짱짱 백준탐험일기(Start Until 2022-08-15)  
 How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 # Tag
-- [Basic Coding (or Brute Force)](#basic-coding--or-brute-force-)
+- [ETC](#etc)
 - [Dynamic Programming](#dynamic-programming)
 - [BFS](#bfs)
 - [Binary Search](#binary-search)
@@ -15,7 +15,7 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 
 
 
-# Basic Coding (or Brute Force)
+# ETC
 - [10815.cpp (숫자 카드 1)](10/10815.cpp)
 # Dynamic Programming
 - [11727.cpp (2xN 타일링 2)](11/11727.cpp)
