@@ -1,4 +1,4 @@
-// solved_1456kb_0ms_48126281_690b
+// solved_1456kb_0ms_690b
 
 #include <stdio.h>
 #include <queue>

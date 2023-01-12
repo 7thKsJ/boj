@@ -1,4 +1,4 @@
-// solved_5036kb_40ms_47045803_1595b
+// solved_5036kb_40ms_1595b
 // Dijkstra
 
 #include <stdio.h>

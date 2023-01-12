@@ -1,4 +1,4 @@
-// solved_2024kb_0ms_53610840_387b
+// solved_2024kb_0ms_387b
 
 
 #include <bits/stdc++.h>

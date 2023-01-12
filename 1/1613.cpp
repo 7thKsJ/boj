@@ -1,4 +1,4 @@
-// solved_2648kb_92ms_52475371_916b
+// solved_2648kb_92ms_916b
 // Floyd-Warshall
 
 #include <bits/stdc++.h>

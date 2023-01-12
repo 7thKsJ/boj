@@ -1,4 +1,4 @@
-// solved_5412kb_56ms_46667583_699b
+// solved_5412kb_56ms_699b
 // Union-Find
 
 #include <stdio.h>

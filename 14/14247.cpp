@@ -1,4 +1,4 @@
-// solved_9836kb_24ms_53612593_530b
+// solved_9836kb_24ms_530b
 
 #include <bits/stdc++.h>
 using namespace std;

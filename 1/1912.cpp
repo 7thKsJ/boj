@@ -1,4 +1,4 @@
-// solved_1892kb_12ms_51219488_356b
+// solved_1892kb_12ms_356b
 #include <stdio.h>
 #include <algorithm>
 

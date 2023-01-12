@@ -20,6 +20,9 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - [1940.cpp (주몽)](1/1940.cpp)
 # Implement
 - [10815.cpp (숫자 카드 1)](10/10815.cpp)
+# Sorting
+- [10825.cpp (국영수)](10/10825.cpp)
+- [11650.cpp (좌표 정렬하기)](11/11650.cpp)
 # Dynamic Programming
 - [11727.cpp (2xN 타일링 2)](11/11727.cpp)
 - [9465.cpp (스티커 a.k.a(조약돌 문제, Pebbling a checkboard))](9/9465.cpp)
@@ -28,18 +31,24 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - [9251.cpp (LCS)](9/9251.cpp)
 - [1912.cpp (연속합)](1/1912.cpp)
 # Two-Pointer
-- [1940(1).cpp (숫자 카드 1)](1/1940(1).cpp)
+- [1940(1).cpp (주몽)](1/1940(1).cpp)
 - [2003(1).cpp (수들의 합 2)](2/2003(1).cpp)
 # Sliding Window
 - [cu4747.cpp (회전초밥)](4/cu4747.cpp)
 # Prefix Sum
 - [2559.cpp (수열)](2/2559.cpp)
+- [11659.cpp (구간 합 구하기)](11/11659.cpp)
 # Greedy
 - [4796.cpp (캠핑)](4/4796.cpp)
 - [2548.cpp (대표 자연수)](2/2548.cpp)
 - [2141.cpp (우체국)](2/2141.cpp)
 - [2805.cpp (나무 자르기)](2/2805.cpp)
 - [26975.cpp (Cow College)](26/26975.cpp)
+- [1439.cpp (뒤집기)](1/1439.cpp)
+- [1449.cpp (수리공 항승)](1/1449.cpp)
+- [14247.cpp (나무 자르기)](14/14247.cpp)
+- [1931.cpp (회의실 배정)](1/1931.cpp)
+- [1946.cpp (신입사원)](1/1946.cpp)
 # BFS
 - [1697.cpp (숨바꼭질)](1/1697.cpp)
 # Binary Search
@@ -48,6 +57,8 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - [1300.cpp (K번째 수)](1/1300.cpp)
 ## Parametric Search
 - [2805(1).cpp (나무 자르기)](2/2805(1).cpp)
+# Divide-and-conquer
+- [1629.cpp (곱셈)](1/1629.cpp)
 # Priority Queue
 - [11279.cpp (최대 힙)](11/11279.cpp)
 - [11286.cpp (절댓값 힙)](11/11286.cpp)
@@ -67,3 +78,7 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 ## Topological Sorting
 - [2623.cpp (음악프로그램){Queue}](2/2623.cpp)
 - [2623.cpp (음악프로그램){DFS, Stack}](2/2623(1).cpp)
+
+# Unsolved
+- 14170
+- 26976
