@@ -1,8 +1,10 @@
 왕왕짱짱 백준탐험일기(Start Until 2022-08-15)  
 How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 # Tag
-- [ETC](#etc)
+- [Brute Force](#brute-force)
+- [Implement](#implement)
 - [Dynamic Programming](#dynamic-programming)
+- [Greedy](#greedy)
 - [BFS](#bfs)
 - [Binary Search](#binary-search)
   * [Upper Bound & Lower Bound](#upper-bound---lower-bound)
@@ -13,9 +15,10 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
   * [Minimum Spanning Tree](#minimum-spanning-tree)
   * [Topological Sorting](#topological-sorting)
 
-
-
-# ETC
+# Brute Force
+- [2003.cpp (수들의 합 2)](2/2003.cpp)
+- [1940.cpp (주몽)](1/1940.cpp)
+# Implement
 - [10815.cpp (숫자 카드 1)](10/10815.cpp)
 # Dynamic Programming
 - [11727.cpp (2xN 타일링 2)](11/11727.cpp)
@@ -24,12 +27,27 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - [11049.cpp (행렬 곱셈 문제)](11/11049.cpp)
 - [9251.cpp (LCS)](9/9251.cpp)
 - [1912.cpp (연속합)](1/1912.cpp)
+# Two-Pointer
+- [1940(1).cpp (숫자 카드 1)](1/1940(1).cpp)
+- [2003(1).cpp (수들의 합 2)](2/2003(1).cpp)
+# Sliding Window
+- [cu4747.cpp (회전초밥)](4/cu4747.cpp)
+# Prefix Sum
+- [2559.cpp (수열)](2/2559.cpp)
+# Greedy
+- [4796.cpp (캠핑)](4/4796.cpp)
+- [2548.cpp (대표 자연수)](2/2548.cpp)
+- [2141.cpp (우체국)](2/2141.cpp)
+- [2805.cpp (나무 자르기)](2/2805.cpp)
+- [26975.cpp (Cow College)](26/26975.cpp)
 # BFS
 - [1697.cpp (숨바꼭질)](1/1697.cpp)
 # Binary Search
 ## Upper Bound & Lower Bound
 - [10816.cpp (숫자 카드 2)](10/10816.cpp)
 - [1300.cpp (K번째 수)](1/1300.cpp)
+## Parametric Search
+- [2805(1).cpp (나무 자르기)](2/2805(1).cpp)
 # Priority Queue
 - [11279.cpp (최대 힙)](11/11279.cpp)
 - [11286.cpp (절댓값 힙)](11/11286.cpp)
