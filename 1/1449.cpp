@@ -1,6 +1,3 @@
-// solved_2024kb_0ms_387b
-
-
 #include <bits/stdc++.h>
 using namespace std;
 

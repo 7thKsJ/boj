@@ -9,7 +9,10 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - [Sliding Window](#sliding-window)
 - [Prefix Sum](#prefix-sum)
 - [Greedy](#greedy)
-- [BFS](#bfs)
+- [Stack](#stack)
+- [Queue](#queue)
+  * [BFS](#bfs)
+- [Map](#map)
 - [Binary Search](#binary-search)
   * [Upper Bound & Lower Bound](#upper-bound---lower-bound)
   * [Parametric Search](#parametric-search)
@@ -21,6 +24,7 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
   * [Minimum Spanning Tree](#minimum-spanning-tree)
   * [Topological Sorting](#topological-sorting)
 - [Unsolved](#unsolved)
+
 
 # Brute Force
 - [2003.cpp (수들의 합 2)](2/2003.cpp)
@@ -56,8 +60,15 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - [14247.cpp (나무 자르기)](14/14247.cpp)
 - [1931.cpp (회의실 배정)](1/1931.cpp)
 - [1946.cpp (신입사원)](1/1946.cpp)
-# BFS
+# Stack
+- [6198.cpp (옥상 정원 꾸미기)](6/6198.cpp)
+# Queue
+## BFS
 - [1697.cpp (숨바꼭질)](1/1697.cpp)
+# Map
+- [cu3170.cpp (기억력 테스트 9)](3/cu3170.cpp)
+- [11478.cpp (서로 다른 부분 문자열의 개수)](11/11478.cpp)
+- [1764.cpp (듣보잡)](1/1764.cpp)
 # Binary Search
 ## Upper Bound & Lower Bound
 - [10816.cpp (숫자 카드 2)](10/10816.cpp)
@@ -70,6 +81,7 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - [11279.cpp (최대 힙)](11/11279.cpp)
 - [11286.cpp (절댓값 힙)](11/11286.cpp)
 - [1655.cpp (가운데를 말해요)](1/1655.cpp)
+- [1715.cpp (카드 정렬하기)](1/1715.cpp)
 # Union-Find
 - [1717.cpp (집합의 포현)](1/1717.cpp)
 # Graph
@@ -88,4 +100,11 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 
 # Unsolved
 - 14170
+- 14465
 - 26976
+- 11000
+
+# Solved, upadate 
+- 2841
+- 2212
+- 2143
