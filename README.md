@@ -123,7 +123,7 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 ## Shortest Path Problems
 ### Dijkstra
 - [1916(1).cpp (최소비용 구하기){다익스트라}](1/1916.cpp)
-- <u>__[1753.cpp (최단경로)](1/1753.cpp)__</u>
+- <U>__[1753.cpp (최단경로)](1/1753.cpp)__</U>
 - [2307.cpp (도로검문)](2/2307.cpp)
 ### Floyd-Warshall
 - [11404.cpp (플로이드){플로이드-워샬}](11/11404.cpp)
@@ -133,7 +133,7 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 ## Minimum Spanning Tree
 - [1922.cpp (네트워크 연결){Prim #1}](1/1922.cpp)
 - [1922.cpp (네트워크 연결){Prim #2}](1/1922(1).cpp)
-- <u>__[1922.cpp (네트워크 연결){Prim #fin, pq, vec}](1/1922(2).cpp)__</u>
+- <U>__[1922.cpp (네트워크 연결){Prim #fin, pq, vec}](1/1922(2).cpp)__</U>
 - [10423.cpp (전기가 필요해){Kruskal}](10/10423.cpp)
 - [1647.cpp (도시 분할 계획){Prim}](1/1647.cpp)
 ## Topological Sorting
@@ -146,7 +146,7 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 # Segment Tree
 - [2517.cpp (달리기)](2/2517.cpp)
 - [cu3210.cpp (기억력 테스트 5)](3/cu3210.cpp)
-- <u>__[cu3214.cpp (기억력 테스트 10)](3/cu3214.cpp)__</u>
+- <U>__[cu3214.cpp (기억력 테스트 10)](3/cu3214.cpp)__</U>
 
 # Not Solved
 - 14170 (Counting Haybales)
