@@ -14,6 +14,7 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - [Stack](#stack)
 - [Queue](#queue)
   * [BFS](#bfs)
+- [Deque](#deque)
 - [Map](#map)
 - [Binary Search](#binary-search)
   * [Meet-In-The-Middle](#meet-in-the-middle)
@@ -33,6 +34,9 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - [Offline Query](#offline-query)
 - [Sparse Table](#sparse-table)
 - [Segment Tree](#segment-tree)
+  * [Lazy Segment Tree](#lazy-segment-tree)
+    + [Euler Tour Technique](#euler-tour-technique)
+- [ADHOC](#adhoc)
 - [Not Solved](#not-solved)
 - [Solved, upadate](#solved--upadate)
 
@@ -46,6 +50,7 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 # Sorting
 - [10825.cpp (국영수)](10/10825.cpp)
 - [11650.cpp (좌표 정렬하기)](11/11650.cpp)
+- [2551.cpp (두 대표 자연수)](2/2551.cpp)
 ## Coordinate Compression
 - [18870.cpp (좌표 압축)](18/18870.cpp)
 # Dynamic Programming
@@ -60,6 +65,7 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - [1940(1).cpp (주몽)](1/1940(1).cpp)
 - [2003(1).cpp (수들의 합 2)](2/2003(1).cpp)
 - [2473.cpp (세 용액)](2/2473.cpp)
+- [1644.cpp (소수의 연속합)](1/1644.cpp)
 ## Sliding Window
 - [cu4747.cpp (회전초밥)](4/cu4747.cpp)
 # Prefix Sum
@@ -79,6 +85,8 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - [1931.cpp (회의실 배정)](1/1931.cpp)
 - [1946.cpp (신입사원)](1/1946.cpp)
 - [10775.cpp (공항) {Greedy + Union-Find}](10/10775.cpp)
+- [2138.cpp (전구와 스위치)](2/2138.cpp)
+- [2437.cpp (저울) {Sort}](2/2437.cpp)
 # Stack
 - [6198.cpp (옥상 정원 꾸미기)](6/6198.cpp)
 - [1725.cpp (히스토그램)](1/1725.cpp)
@@ -87,12 +95,18 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - [3078.cpp (좋은 친구)](3/3078.cpp)
 ## BFS
 - [1697.cpp (숨바꼭질)](1/1697.cpp)
+# Deque
+- [11003(1).cpp (최솟값 찾기)](11/11003(1).cpp)
 # Map
 - [cu3170.cpp (기억력 테스트 9)](3/cu3170.cpp)
 - [11478.cpp (서로 다른 부분 문자열의 개수)](11/11478.cpp)
 - [1764.cpp (듣보잡)](1/1764.cpp)
 - [9933.cpp (민균이의 비밀번호)](9/9933.cpp)
 # Binary Search
+## LIS
+- [12015.cpp (가장 긴 증가하는 부분수열 2](12/12015.cpp)
+- [14003.cpp (가장 긴 증가하는 부분수열 5)](14/14003.cpp)
+- [2568.cpp (전깃줄 - 2)](2/2568.cpp)
 ## Meet-In-The-Middle
 - [1208.cpp (부분수열의 합2)](1/1208.cpp)
 ## Upper Bound & Lower Bound
@@ -100,6 +114,7 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - [1300.cpp (K번째 수)](1/1300.cpp)
 ## Parametric Search
 - [2805(1).cpp (나무 자르기)](2/2805(1).cpp)
+- [2110.cpp (공유기 설치)](2/2110.cpp)
 # Divide-and-conquer
 - [1629.cpp (곱셈)](1/1629.cpp)
 - [cu3705.cpp (연속된 구간의 최대합)](3/cu3705.cpp)
@@ -108,6 +123,7 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - [11286.cpp (절댓값 힙)](11/11286.cpp)
 - [1655.cpp (가운데를 말해요)](1/1655.cpp)
 - [1715.cpp (카드 정렬하기)](1/1715.cpp)
+- [11003.cpp (최솟값 찾기)](11/11003.cpp)
 # Union-Find
 - [1717.cpp (집합의 포현)](1/1717.cpp)
 - [4195.cpp (친구 네트워크)](4/4195.cpp)
@@ -120,6 +136,7 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - [15681.cpp (트리와 쿼리)](15/15681.cpp)
 - [15971.cpp (두 로봇)](15/15971.cpp)
 - [20647.cpp (Cowntagion)](20/20647.cpp)
+- [1967.cpp (트리의 지름)](1/1967.cpp)
 ## Shortest Path Problems
 ### Dijkstra
 - [1916(1).cpp (최소비용 구하기){다익스트라}](1/1916.cpp)
@@ -139,6 +156,7 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 ## Topological Sorting
 - [2623.cpp (음악프로그램){Queue}](2/2623.cpp)
 - [2623.cpp (음악프로그램){DFS, Stack}](2/2623(1).cpp)
+- [cu3212.cpp (위상 정렬)](3/cu3212.cpp)
 # Offline Query
 - [13306.cpp (트리){+Union-Find}](13/13306.cpp)
 # Sparse Table
@@ -147,6 +165,21 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - [2517.cpp (달리기)](2/2517.cpp)
 - [cu3210.cpp (기억력 테스트 5)](3/cu3210.cpp)
 - <U>[cu3214.cpp (기억력 테스트 10)](3/cu3214.cpp)</U>
+- [1321.cpp (군인)](1/1321.cpp)
+- [10868.cpp (최솟값)](10/10868.cpp)
+- [11505.cpp (구간 곱 구하기)](11/11505.cpp)
+- [2042.cpp (구간 합 구하기)](2/2042.cpp)
+- [2357.cpp (최솟값과 최댓값)](2/2357.cpp)
+- [cu3736.cpp (LIS (Large))](3/cu3736.cpp)
+## Lazy Segment Tree
+- [10999.cpp (구간합 구하기 2)](10/10999.cpp)
+- [14245.cpp (XOR)](14/14245.cpp)
+### Euler Tour Technique
+- [2820.cpp (자동차 공장)](2/2820.cpp)
+## Merge Sort Tree
+- [13537.cpp (수열과 쿼리 1)](13/13537.cpp)
+# ADHOC
+- [20944.cpp (펠린드롬 척화비)](20/20944.cpp)
 
 # Not Solved
 - 14170 (Counting Haybales)
@@ -156,5 +189,6 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - 24621 (Photoshoot 2)
 - 11000 (강의실 배정)
 - 2668 (숫자고르기)
+- 1786 (찾기) <문자열 해싱>
 
 # Solved, upadate 
