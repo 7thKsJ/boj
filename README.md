@@ -36,6 +36,7 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - [Segment Tree](#segment-tree)
   * [Lazy Segment Tree](#lazy-segment-tree)
     + [Euler Tour Technique](#euler-tour-technique)
+- [Hash](#hash)
 - [ADHOC](#adhoc)
 - [Not Solved](#not-solved)
 - [Solved, upadate](#solved--upadate)
@@ -178,8 +179,11 @@ How to make MD Index?([link](https://ecotrust-canada.github.io/markdown-toc/))
 - [2820.cpp (자동차 공장)](2/2820.cpp)
 ## Merge Sort Tree
 - [13537.cpp (수열과 쿼리 1)](13/13537.cpp)
+# Hash
+- [10840.cpp (구간 성분)](10/10840.cpp)
 # ADHOC
 - [20944.cpp (펠린드롬 척화비)](20/20944.cpp)
+- [10837.cpp (동전 게임)](10/10837.cpp)
 
 # Not Solved
 - 14170 (Counting Haybales)
